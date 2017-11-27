@@ -1,0 +1,14 @@
+{
+    "name": "gescom/reconigtion-voice",
+    "description": "prueba",
+    "type": "1",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "Henry Joel",
+            "email": "vvillaloboshenry@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
