@@ -9,6 +9,6 @@
             "email": "vvillaloboshenry@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "require": {}
 }
